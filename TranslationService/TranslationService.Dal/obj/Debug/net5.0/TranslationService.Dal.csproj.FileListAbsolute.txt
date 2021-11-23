@@ -1,0 +1,12 @@
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\bin\Debug\net5.0\TranslationService.Dal.deps.json
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\bin\Debug\net5.0\TranslationService.Dal.dll
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\bin\Debug\net5.0\ref\TranslationService.Dal.dll
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\bin\Debug\net5.0\TranslationService.Dal.pdb
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\obj\Debug\net5.0\TranslationService.Dal.csproj.AssemblyReference.cache
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\obj\Debug\net5.0\TranslationService.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\obj\Debug\net5.0\TranslationService.Dal.AssemblyInfoInputs.cache
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\obj\Debug\net5.0\TranslationService.Dal.AssemblyInfo.cs
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\obj\Debug\net5.0\TranslationService.Dal.csproj.CoreCompileInputs.cache
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\obj\Debug\net5.0\TranslationService.Dal.dll
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\obj\Debug\net5.0\ref\TranslationService.Dal.dll
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Dal\obj\Debug\net5.0\TranslationService.Dal.pdb

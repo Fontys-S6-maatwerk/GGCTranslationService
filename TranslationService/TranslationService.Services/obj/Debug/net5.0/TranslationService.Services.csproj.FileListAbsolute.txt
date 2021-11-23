@@ -1,0 +1,15 @@
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\bin\Debug\net5.0\TranslationService.Services.deps.json
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\bin\Debug\net5.0\TranslationService.Services.dll
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\bin\Debug\net5.0\ref\TranslationService.Services.dll
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\bin\Debug\net5.0\TranslationService.Services.pdb
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\bin\Debug\net5.0\TranslationService.Dal.dll
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\bin\Debug\net5.0\TranslationService.Dal.pdb
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\obj\Debug\net5.0\TranslationService.Services.csproj.AssemblyReference.cache
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\obj\Debug\net5.0\TranslationService.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\obj\Debug\net5.0\TranslationService.Services.AssemblyInfoInputs.cache
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\obj\Debug\net5.0\TranslationService.Services.AssemblyInfo.cs
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\obj\Debug\net5.0\TranslationService.Services.csproj.CoreCompileInputs.cache
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\obj\Debug\net5.0\TranslationService.Services.csproj.CopyComplete
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\obj\Debug\net5.0\TranslationService.Services.dll
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\obj\Debug\net5.0\ref\TranslationService.Services.dll
+C:\Users\dpder\maatwerk\GGCTranslationService\TranslationService\TranslationService.Services\obj\Debug\net5.0\TranslationService.Services.pdb
