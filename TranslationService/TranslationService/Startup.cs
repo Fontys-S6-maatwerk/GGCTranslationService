@@ -36,6 +36,7 @@ namespace TranslationService
                 c.SwaggerDoc("v1", new OpenApiInfo {Title = "TranslationService", Version = "v1"});
             });
 
+            services.AddLogging();
             services.AddOptions();
 
             var rabbitMqSettingsConfig = Configuration.GetSection("RabbitMq");
@@ -73,7 +74,6 @@ namespace TranslationService
             }
 
             app.UseHttpsRedirection();
-
             app.UseRouting();
 
             app.UseAuthorization();
