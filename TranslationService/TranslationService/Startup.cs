@@ -30,7 +30,7 @@ namespace TranslationService
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo {Title = "TranslationService", Version = "v1"});
@@ -43,14 +43,12 @@ namespace TranslationService
             var rabbitMqSettings = rabbitMqSettingsConfig.Get<RabbitMqConfiguration>();
             services.Configure<RabbitMqConfiguration>(rabbitMqSettingsConfig);
             
+            services.AddControllers();
+            
             services.AddTransient<ITranslationSender, TranslationSender>();
             services.AddTransient<ITranslationService, Services.Services.TranslationService>();
+            services.AddHostedService<TranslationRequestListener>();
 
-            if (rabbitMqSettings.Enabled)
-            {
-                services.AddHostedService<TranslationRequestListener>();
-            }
-            
             services.AddCors(options =>
             {
                 options.AddDefaultPolicy(builder =>
@@ -60,7 +58,6 @@ namespace TranslationService
                         .AllowAnyMethod();
                 });
             });
-            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

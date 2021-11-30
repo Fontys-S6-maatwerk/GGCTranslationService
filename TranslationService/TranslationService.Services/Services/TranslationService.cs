@@ -51,5 +51,15 @@ namespace TranslationService.Services.Services
             }
             return TranslationMapper.ToResponse(t);
         }
+
+        public Task<Translation[]> GetTranslations(Guid solutionId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Translation> GetTranslation(Guid solutionId, string locale)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
