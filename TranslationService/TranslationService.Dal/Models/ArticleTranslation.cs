@@ -1,6 +1,6 @@
 namespace TranslationService.Dal.Models
 {
-    public class ArticleTranslations : SolutionTranslation
+    public class ArticleTranslation : SolutionTranslation
     {
         public string Content { get; set; }
     }
